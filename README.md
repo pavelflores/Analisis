@@ -1,9 +1,8 @@
 # Analísis matemático
 
-#### Problema.
-Sea <img src="https://render.githubusercontent.com/render/math?math=f:\mathbb R^d \backslash \{0\} \longrightarrow \mathbb R "> homogénea de grado <img src="https://render.githubusercontent.com/render/math?math=\gamma \in \mathbb R"> es decir
+**Problema.** Sea <img src="https://render.githubusercontent.com/render/math?math=f:\mathbb R^d \backslash \{0\} \longrightarrow \mathbb R "> homogénea de grado <img src="https://render.githubusercontent.com/render/math?math=\gamma \in \mathbb R"> es decir
 
--><img src="https://render.githubusercontent.com/render/math?math=f(tx)=t^\gamma f(x) \quad x\in R^d \backslash \{0\}, \ t>0."> <-
+-> <img src="https://render.githubusercontent.com/render/math?math=f(tx)=t^\gamma f(x) \quad x\in \mathbb R^d \backslash \{0\}, \ t>0."> <-
         
 Entonces si $<img src="https://render.githubusercontent.com/render/math?math=f">$ es diferenciable
         
