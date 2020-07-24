@@ -8,7 +8,7 @@
         
 Entonces si <img src="https://render.githubusercontent.com/render/math?math=f"> es diferenciable
 
-<p aling="center">
+<p align="center">
         <img src="https://render.githubusercontent.com/render/math?math=<x,\nabla f(x)>=\gamma \nabla f(x).">
 </p>
 
